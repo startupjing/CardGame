@@ -1,0 +1,43 @@
+9D  6D 5D 8D 7D // straight flush 
+
+KD  JD qD aD 10D // straight flush (rank higher)
+
+
+4s 4H  4D As 4c  // four of a kind
+
+Js JH  7D JD jc  // four of a kind (rank higher)
+
+
+Qs QH	 JH Qc Jc // full house  (rank higher)
+
+5s 5H	 8s 8d 8c // full house
+
+
+KH   10H 3H 2H 8H // flush  (rank higher)
+
+8s   4s 3s 6s 8s // flush
+
+
+6c 10c 9H  8s  7H // straight
+
+6c 10s 9H  8s  7H // straight  (rank higher)
+
+
+AH Ks Js AD Ac // three of a kind  (rank higher)
+
+5H Ks Js 5D 5c // three of a kind
+
+
+9c QD 10c 10D 9s // two pairs  (rank higher)
+
+5c QD 10c 10D 5s // two pairs
+
+
+7s 8c 2s 5H 2c // one pair
+
+7s 10c 2s 5H 2c // one pair  (rank higher)
+
+
+KD JD 6s 5s 3c // no rank (rank higher)
+
+10D JD 6s 5s 3c // no rank
